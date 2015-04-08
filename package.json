@@ -1,0 +1,22 @@
+{
+  "name": "keepstreak",
+  "version": "1.0.0",
+  "description": "a module for making a contribution on github everday",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/dayuoba/keepstreak"
+  },
+  "keywords": [
+    "keepstreak"
+  ],
+  "author": "dayuoba",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dayuoba/keepstreak/issues"
+  },
+  "homepage": "https://github.com/dayuoba/keepstreak"
+}
