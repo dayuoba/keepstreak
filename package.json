@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/dayuoba/keepstreak/issues"
   },
-  "homepage": "https://github.com/dayuoba/keepstreak"
+  "homepage": "https://github.com/dayuoba/keepstreak",
+  "dependencies": {
+    "node-schedule": "^0.2.6",
+    "rootdir": "^1.0.5"
+  }
 }
